@@ -29,5 +29,5 @@ spring.cloud:
         uri: http://localhost:8080
         predicates:
           - Path=/v1.0/newservice
-          - After=2024-08-25T14:00:00.126+09:00[Asia/Seoul]
+          - After=2024-08-27T14:00:00.126+09:00[Asia/Seoul]
 
